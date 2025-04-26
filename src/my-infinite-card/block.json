@@ -1,0 +1,19 @@
+{
+	"apiVersion": 2,
+	"name": "myplugin/infinite-card",
+	"title": "Infinite Card",
+	"category": "media",
+	"icon": "format-gallery",
+	"description": "Card kotak 1:1 untuk gambar dan deskripsi",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"attributes": {
+	"cards": {
+		"type": "array",
+		"default": []
+		}
+	}
+
+  }
+  
